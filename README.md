@@ -1,4 +1,4 @@
-# Ram Pratap Yadav — Portfolio Starter
+# Rampratap Yadav — Portfolio Starter
 
 A responsive portfolio website built with plain HTML, CSS, and JavaScript.
 
